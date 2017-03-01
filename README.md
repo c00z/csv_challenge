@@ -41,7 +41,8 @@ You may assume that the delimiters (commas, pipes and spaces) do not appear anyw
 1. This challenge can be done in Ruby or in JavaScript with Node.js. Solutions here are in Ruby.  
 1. Think about how you can break the problem down into smaller parts.   
 1. Think about how you can make your solution adhere to best practices.  
-1. Research portions of the task that are unfamiliar.  You might want to use search terms like "file io" and/or "csv". 
+1. Research portions of the task that are unfamiliar.  You might want to use search terms like "file io" and/or "csv".
 
-
-
+pull in csv data
+research ruby method and hashing
+split/parse data
